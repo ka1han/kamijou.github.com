@@ -1,2 +1,3 @@
 kamijou.github.com
 ==================
+This is Kamijou/莫小贝@人人/Assembly_@百度贴吧/曦忆沉@豆瓣's Blog.........................
