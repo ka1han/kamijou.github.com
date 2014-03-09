@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fork自[webfrog的博客](https://github.com/webfrogs/webfrogs.github.com )
 
 目前修改了
@@ -17,3 +18,8 @@ fork自[webfrog的博客](https://github.com/webfrogs/webfrogs.github.com )
 * 为每个post添加了outline，实现方式为js
 
 
+=======
+kamijou.github.com
+==================
+This is Kamijou/莫小贝@人人/Assembly_@百度贴吧/曦忆沉@豆瓣's Blog.........................
+>>>>>>> FETCH_HEAD
