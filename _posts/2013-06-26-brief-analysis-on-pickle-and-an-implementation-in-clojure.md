@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pickle模块简介与一个简单的clojure实现"
+title: "转载：pickle模块简介与一个简单的clojure实现"
 description: ""
 categories: python
 tags: [python, pickle, clojure, implementation]
@@ -115,3 +115,4 @@ def read_decimalnl_long(f):
 
 感觉上用clojure实现协议1（包括部分协议2）的PM，要说的就是这么多（篇幅上来说比想象中的要短不少啊）。这回使用的编辑器依然是<font color=red>THE MIGHTY EMACS</font>，插件是很好用的nrepl，也算是体验了一下Lisp的开发方式，非常快捷方便，但是由于我个人的原因，开发起来还不是很熟练，最近买了O'reilly的《Clojure编程》打算系统地学习一下clojure。另外一个感觉是clojure的文档有些地方对于我来说不是很好用，比如clojure 1.4里面很多包名都从contrib里面移出去了，我找这方面的文档找了半天还是没找到（以前找到过一次貌似，但是寒假里没找到），还有就是clojure的错误信息有些时候很难读懂，这个可能跟经验有关，以后再慢慢积累吧。
 
+本文转载于 mad4a.me
