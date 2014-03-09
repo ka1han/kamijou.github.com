@@ -4,7 +4,7 @@ layout: page
 comments: false
 ---
 
-emacs 逆向工程初学者
+Emacs 逆向工程初学者
 
 
 
@@ -12,9 +12,16 @@ emacs 逆向工程初学者
 
 ### 联系方式
 
-* github: [https://github.com/kamijou](https://github.com/kamijou )
+* Github: [https://github.com/kamijou](https://github.com/kamijou )
 
 * 推: [https://twitter.com/plantgazer](https://twitter.com/plantgazer )
+
+* 豆瓣: [http://www.douban.com/people/82996131/](http://www.douban.com/people/82996131/)
+
+* QQ: 1606020657
+
+* Gmail: plantgazer@gmail.com
+
 
 ---
 
