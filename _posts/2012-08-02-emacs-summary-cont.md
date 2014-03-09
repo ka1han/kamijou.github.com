@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Emacs总结（续）之YASnippet"
+title: "转载：Emacs总结（续）之YASnippet"
 description: ""
 category: emacs
 tags: [emacs, summary, configure, yasnippet]
@@ -265,3 +265,5 @@ _注意_：里面是一行，不能折行。
 我开始体会到emacs的强大，也是自己摸索出来上面那个图片文件列表snippet之后了，而elisp正是emacs强大的根源所在。elisp开发（或者说lisp类的语言的开发）的过程也是非常愉悦的过程，你在主buffer里写着代码，写了两个函数，想试一下效果，可以直接eval一下buffer，然后在旁边的repl里立即进行测试，基本上等于_所写即所得编程_（好像是废话，但是你懂我说的），我想目前还没有别的语言能这么做，对于我这个不会单元测试（也不喜欢，如果是好lisp代码的话，应该是不需要单元测试的，因为本身就完全是[声明式](http://en.wikipedia.org/wiki/Declarative_programming)的，要干什么一目了然）的人来说，真是救星一般的东西。另：elisp的文档也写得非常好，朴素且实用，就像emacs自己。
 
 如果想进一步了解lisp这种**神奇**的东西，可以看看 [黑客与画家](http://book.douban.com/subject/6021440/ )。Paul Graham写的很精彩，但是我觉得略微有点太夸大lisp了（虽然lisp确实很强大） :)
+
+本文转载于 mad4a.me
