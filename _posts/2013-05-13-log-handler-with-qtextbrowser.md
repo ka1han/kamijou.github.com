@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在PyQt中实现一个可以变色的log窗口"
+title: "转载：在PyQt中实现一个可以变色的log窗口"
 description: ""
 category: gui
 tags: [pyqt, logger, handler, qtextbrowser, formatter]
@@ -182,3 +182,5 @@ logger.critical('critical')
 * [Python内置的handler，壮哉我大Python Stdlib](http://docs.python.org/2/library/logging.handlers.html#module-logging.handlers )
 * [Logging Cookbook](http://docs.python.org/2/howto/logging-cookbook.html#logging-cookbook )
 
+
+本文转载于 mad4a.me
