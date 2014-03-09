@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2012年的暑假总结"
+title: "转载：2012年的暑假总结"
 description: ""
 category: summary
 tags: [summer, summary]
@@ -38,5 +38,5 @@ tags: [summer, summary]
 
 另外考虑到用户的*非*专业人员的属性，为每个项目入口点（比如输入界面和输出到表格）做了一个batch文件（给安装也做了一个脚本，静默安装python，安装distribute库，安装pip，安装xlrd和sqlalchemy，最后是安装pyqt和pywin32，基本上是全自动，除了最后两个需要手动点几下Next，因为实在是没找到可以用的静默参数是啥）。
 
-
+本文转载于 mad4a.me
 
