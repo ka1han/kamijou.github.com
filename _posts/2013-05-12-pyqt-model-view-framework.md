@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQt的Model/View框架的个人总结"
+title: "转载：PyQt的Model/View框架的个人总结"
 description: ""
 category: gui
 tags: [pyqt, python, summary]
@@ -239,3 +239,4 @@ view2.setSelectionModel(view1.selectionModel())
 
 本文的代码可以在[这个repo][os-exp]找到（前面也说过了）。
 
+本文转载于 mad4a.me
