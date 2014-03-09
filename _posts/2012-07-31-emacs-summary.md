@@ -143,3 +143,4 @@ ps: 在这里强烈推荐一下[Bitstream Vera Sans Mono](http://ftp.gnome.org/p
 
 未完待续...
 
+本文转载于 mad4a.me
