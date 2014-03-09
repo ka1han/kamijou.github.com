@@ -1,7 +1,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-url: http://mad4alcohol.github.io
-author: 陈
+url: http://kamijou.github.io
+author: 张
 pygments: true
 safe: false
 paginate: 16
