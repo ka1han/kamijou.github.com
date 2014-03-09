@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "折腾了一天的emacs，现在来写点总结"
+title: "转载：折腾了一天的emacs，现在来写点总结"
 description: ""
 category: emacs
 tags: [emacs, summary, configure]
