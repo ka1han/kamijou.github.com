@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "不规范地简述一下JPEG原理"
+title: "转载：不规范地简述一下JPEG原理"
 description: ""
 category: misc
 tags: [jpeg]
@@ -26,4 +26,6 @@ JPEG规范要求将输入图片（比如灰度图）按8x8分块，每块做DCT�
 JPEG解码基本上是上面的逆变换。
 
 用语和概念可能并不规范，甚至有误，请包涵。
+
+本文转载于 mad4a.me
 
