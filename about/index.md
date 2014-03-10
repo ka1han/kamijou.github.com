@@ -22,6 +22,11 @@ Emacs 逆向工程初学者
 
 * Gmail: plantgazer@gmail.com
 
+* 看雪论坛: 莫小贝
+
+* BCTF 死道友不死贫道战队成员
+
+
 
 ---
 
